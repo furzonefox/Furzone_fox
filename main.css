@@ -18,8 +18,10 @@ a:hover {
 }
 a[role="button"] {
     background-size: 50px;
-    background-color:coral;
+    background-color:rgba(255, 226, 80, 0.208);
     background: -moz-linear-gradient(deg(90), coral, rgba(255, 127, 80, 0.379));
     background-clip: content-box;
     background-attachment: fixed;
+    border: 0.5px red solid;
+    border-radius: 4px;
 }
