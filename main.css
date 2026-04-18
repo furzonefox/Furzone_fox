@@ -1,0 +1,17 @@
+body {
+    font-family: Cambria, Georgia, 'Time New Roman', sans, sans-serif !important;
+}
+
+a {
+    text-decoration: none;
+    color: orange;
+}
+p {
+    text-align: justify;
+    font-size: 12px;
+}
+a:hover {
+    transition-duration: 1.5s;
+    color: orangered;
+    text-decoration: underline orangered;
+}
