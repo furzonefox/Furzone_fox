@@ -1,5 +1,6 @@
 body {
     font-family: Cambria, Georgia, 'Time New Roman', sans, sans-serif !important;
+    background: -moz-radial-gradient(deg(45), coral, rgba(215, 136, 107, 0.778))
 }
 
 a {
@@ -14,4 +15,11 @@ a:hover {
     transition-duration: 1.5s;
     color: orangered;
     text-decoration: underline orangered;
+}
+a[role="button"] {
+    background-size: 50px;
+    background-color:coral;
+    background: -moz-linear-gradient(deg(90), coral, rgba(255, 127, 80, 0.379));
+    background-clip: content-box;
+    background-attachment: fixed;
 }
