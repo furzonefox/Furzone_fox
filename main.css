@@ -31,7 +31,7 @@ a[role="button"] {
     margin-left: 10px;
 }
 #page {
-    background-color: orange;
+    background-color: rgba(189, 93, 15, 0.695);
     width: 500px;
     margin: 5px auto
 }

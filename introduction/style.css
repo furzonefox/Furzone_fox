@@ -1,5 +1,5 @@
 #page {
-    width: 500px;
+    width: 700px;
     margin: 0px auto;
     background:-moz-linear-gradient(orange, orangered);
 }
@@ -11,6 +11,7 @@ body {
     font-family: Cambria, Georgia, 'Time New Roman', sans, sans-serif !important;
 }
 a[role="button"] {
+    color: orange;
     background-size: 50px;
     /* background-color:rgba(255, 226, 80, 0.208); */
     background: -moz-linear-gradient(deg(90), coral, rgba(255, 127, 80, 0.379));
@@ -21,13 +22,18 @@ a[role="button"] {
     text-box-edge: 3px;
     padding: 4px;
     margin-left: 10px;
+    text-decoration: none;
 }
 p {
     text-align: justify;
+    size: 18px;
 }
 .underline {
     text-decoration: underline;
 }
 ul > ul > li {
-    list-style:disc;
+    list-style:circle;
+}
+h1 {
+    text-align: center;
 }
