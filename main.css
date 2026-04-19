@@ -29,9 +29,14 @@ a[role="button"] {
     text-box-edge: 3px;
     padding: 4px;
     margin-left: 10px;
+    margin-bottom: 10px;
 }
 #page {
     background-color: rgba(189, 93, 15, 0.695);
     width: 500px;
     margin: 5px auto
+}
+hr.divider {
+    size: 12px;
+    margin: 2px auto 5px auto;
 }
