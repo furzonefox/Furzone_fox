@@ -34,9 +34,10 @@ a[role="button"] {
 #page {
     background-color: rgba(189, 93, 15, 0.695);
     width: 500px;
-    margin: 5px auto
+    margin: 5px auto;
+    height:fit-content;
 }
 hr.divider {
-    size: 12px;
+    block-size: 10px;
     margin: 2px auto 5px auto;
 }
