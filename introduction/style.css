@@ -1,0 +1,33 @@
+#page {
+    width: 500px;
+    margin: 0px auto;
+    background:-moz-linear-gradient(orange, orangered);
+}
+hr.divider {
+    size: 2px;
+    margin: 3px 2px 5px 2px;
+}
+body {
+    font-family: Cambria, Georgia, 'Time New Roman', sans, sans-serif !important;
+}
+a[role="button"] {
+    background-size: 50px;
+    /* background-color:rgba(255, 226, 80, 0.208); */
+    background: -moz-linear-gradient(deg(90), coral, rgba(255, 127, 80, 0.379));
+    background-clip: content-box;
+    background-attachment: fixed;
+    border: 0.5px red solid;
+    border-radius: 4px;
+    text-box-edge: 3px;
+    padding: 4px;
+    margin-left: 10px;
+}
+p {
+    text-align: justify;
+}
+.underline {
+    text-decoration: underline;
+}
+ul > ul > li {
+    list-style:disc;
+}

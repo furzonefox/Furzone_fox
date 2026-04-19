@@ -1,6 +1,6 @@
 body {
     font-family: Cambria, Georgia, 'Time New Roman', sans, sans-serif !important;
-    background: -moz-radial-gradient(deg(45), coral, rgba(215, 136, 107, 0.778))
+    background: -moz-radial-gradient(coral, rgba(215, 136, 107, 0.778))
 }
 h1 {
     text-align: center;
@@ -11,7 +11,7 @@ a {
 }
 p {
     text-align: justify;
-    font-size: 12px;
+    font-size: 18px;
 }
 a:hover {
     transition-duration: 1.5s;
@@ -29,4 +29,9 @@ a[role="button"] {
     text-box-edge: 3px;
     padding: 4px;
     margin-left: 10px;
+}
+#page {
+    background-color: orange;
+    width: 500px;
+    margin: 5px auto
 }
