@@ -35,7 +35,7 @@ a[role="button"] {
     background-color: rgba(189, 93, 15, 0.695);
     width: 500px;
     margin: 5px auto;
-    height:fit-content;
+    height:90%;
 }
 hr.divider {
     block-size: 10px;
