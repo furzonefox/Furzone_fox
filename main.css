@@ -37,6 +37,8 @@ a[role="button"] {
     margin: 5px auto;
     height:90%;
     padding-bottom: 40px;
+    padding-left: 15px;
+    padding-right: 10px;
 }
 hr.divider {
     inline-size: 20px;
