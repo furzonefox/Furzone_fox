@@ -39,6 +39,7 @@ a[role="button"] {
     padding-bottom: 40px;
     padding-left: 15px;
     padding-right: 10px;
+    border: 1px rgba(224, 86, 32, 0.884) dashed;
 }
 hr.divider {
     inline-size: 20px;
