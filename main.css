@@ -38,6 +38,6 @@ a[role="button"] {
     height:90%;
 }
 hr.divider {
-    block-size: 10px;
+    inline-size: 9px;
     margin: 2px auto 5px auto;
 }
