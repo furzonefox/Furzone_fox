@@ -1,0 +1,25 @@
+hr.divider {
+    inline-size: 20px;
+    margin: 2px auto 5px auto;
+}
+a[role="button"] {
+    background-size: 50px;
+    /* background-color:rgba(255, 226, 80, 0.208); */
+    background: -moz-linear-gradient(deg(90), coral, rgba(255, 127, 80, 0.379));
+    background-clip: content-box;
+    background-attachment: fixed;
+    border: 0.5px red solid;
+    border-radius: 4px;
+    text-box-edge: 3px;
+    padding: 4px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+body {
+    font-family: Cambria, Georgia, 'Time New Roman', sans, sans-serif !important;
+    background: -moz-radial-gradient(coral, rgba(215, 136, 107, 0.778))
+}
+p {
+    text-align: justify;
+    font-size: 18px;
+}
