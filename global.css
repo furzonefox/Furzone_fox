@@ -23,3 +23,12 @@ p {
     text-align: justify;
     font-size: 18px;
 }
+table, tr, td, th {
+    border: 2px solid salmon;
+}
+td {
+    background-color: orange;
+}
+th {
+    background-color: orangered;
+}

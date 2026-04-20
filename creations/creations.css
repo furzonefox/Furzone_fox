@@ -4,3 +4,9 @@
 .italic {
     font-style: italic;
 }
+footer {
+    mask-mode: luminance;
+}
+footer:hover {
+    mask-mode: none;
+}
