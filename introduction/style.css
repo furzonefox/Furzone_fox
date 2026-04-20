@@ -37,3 +37,9 @@ ul > ul > li {
 h1 {
     text-align: center;
 }
+figure {
+    margin: 5px auto;
+}
+img {
+    border-image-slice: 10px;
+}
