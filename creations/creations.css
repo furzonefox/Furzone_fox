@@ -11,7 +11,7 @@ footer:hover {
     mask-mode: none;
 }
 .table-div {
-    background-color: rgba(104, 12, 4, 0.591)
+    background-color: rgba(104, 12, 4, 0.591) !important;
 }
 #page {
     background-color: rgba(189, 93, 15, 0.695);

@@ -41,5 +41,5 @@ figure {
     margin: 5px auto;
 }
 img {
-    border-image-slice: 10px;
+    float: center;
 }
