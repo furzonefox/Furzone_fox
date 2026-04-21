@@ -51,5 +51,5 @@ img {
     font-style: italic;
 }
 figcaption {
-    text-align: center;
+    margin: 5px auto 10px auto;
 }
