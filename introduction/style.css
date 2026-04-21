@@ -41,6 +41,9 @@ figure {
     margin: 5px auto;
 }
 img {
-    align-items: center;
+    align-content: center;
     width: 150px;
+}
+#fleur {
+    font-style: italic;
 }
