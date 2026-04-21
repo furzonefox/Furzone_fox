@@ -14,7 +14,7 @@ footer:hover {
     background-color: rgba(104, 12, 4, 0.591) !important;
 }
 #page {
-    background-color: rgba(189, 93, 15, 0.695);
+    background: rgba(189, 93, 15, 0.695);
     width: 500px;
     margin: 5px auto;
     height:90%;
@@ -22,4 +22,7 @@ footer:hover {
     padding-left: 15px;
     padding-right: 10px;
     border: 1px rgba(224, 86, 32, 0.884) dashed;
+}
+body {
+    background: linear-gradient(deg(35), orange, yellow);
 }
