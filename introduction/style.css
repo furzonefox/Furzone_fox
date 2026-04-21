@@ -38,8 +38,8 @@ h1 {
     text-align: center;
 }
 figure {
-    margin: 5px auto;
-    align-self: center;
+    left: 50%;
+    right: 50%;
 }
 img {
     width: 150px;
