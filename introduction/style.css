@@ -41,6 +41,6 @@ figure {
     margin: 5px auto;
 }
 img {
-    align-self: center;
+    align-items: center;
     width: 150px;
 }
