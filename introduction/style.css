@@ -50,3 +50,6 @@ img {
 #Fleur {
     font-style: italic;
 }
+figcaption {
+    text-align: center;
+}
