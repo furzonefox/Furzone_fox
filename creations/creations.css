@@ -4,13 +4,7 @@
 .italic {
     font-style: italic;
 }
-footer {
-    mask-mode: luminance;
-    position: fixed bottom;
-}
-footer:hover {
-    mask-mode: none;
-}
+
 .table-div {
     background-color: rgba(104, 12, 4, 0.591) !important;
 }
@@ -26,4 +20,12 @@ footer:hover {
 }
 body {
     background: linear-gradient(deg(35), orange, yellow);
+}
+hr.divider {
+    right: 65%;
+}
+div.footer {
+    position: fixed;
+    bottom: 2%;
+    top: 90%;
 }
