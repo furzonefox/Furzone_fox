@@ -6,6 +6,7 @@
 }
 footer {
     mask-mode: luminance;
+    position: fixed bottom;
 }
 footer:hover {
     mask-mode: none;
