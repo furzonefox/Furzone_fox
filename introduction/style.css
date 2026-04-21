@@ -41,7 +41,7 @@ figure {
     margin: 5px auto;
 }
 img {
-    right: 50%;
-    left: 50%;
+    margin-left: auto;
+    margin-right: auto;
     width: 150px;
 }
