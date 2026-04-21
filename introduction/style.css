@@ -39,7 +39,7 @@ h1 {
 }
 figure {
     margin: 5px auto;
-    align-content: center;
+    align-self: center;
 }
 img {
     width: 150px;
