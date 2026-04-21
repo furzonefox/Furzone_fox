@@ -38,13 +38,14 @@ h1 {
     text-align: center;
 }
 figure {
-    display: block;
     padding-left: auto;
     padding-right: auto;
 }
 img {
+    display: block;
     width: 150px;
     border-radius: 15px;
+    margin: 0px auto;
 }
 #Fleur {
     font-style: italic;
