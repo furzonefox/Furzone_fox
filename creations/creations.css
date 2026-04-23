@@ -28,4 +28,5 @@ div.footer {
     position: fixed;
     bottom: 5%;
     top: 85%;
+    border-top: 4px grey solid;
 }
