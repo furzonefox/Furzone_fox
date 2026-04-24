@@ -10,3 +10,6 @@ object.web-embed {
     border-radius: 15px;
     margin: 5px auto 3px auto
 }
+div#page > div > a[role="button"] {
+    margin-top: 20px;
+}
