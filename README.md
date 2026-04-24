@@ -2,11 +2,11 @@
 This webpage was created by FurZoneFox completely from scratch and is being maintained until date: {undefined}. <br>
 This webpage is solely a work for fun and has little to no intent to cause or inflict pain.
 
-This will eventually be used to have a working site for informative purpose.
-Do not criticize or make fun of the site (especially without proper experience making/building a website): this is a freetime-fun project and could possibly take months until completion.
+This will eventually be used to have a working site for informative purpose.<br>
+Do not criticize or make fun of the site (especially without proper experience making/building a website): this is a free-time-fun project and could possibly take months until completion.
 
 ## Contents
-For any content that is inside the site: I am not the creator.
+For any media content that is inside the site: I am not the creator.<br>
 If you find content that is not to be used without permission from the owner/creator themselves, contact the owner/creator of the content if possibly, report it as an "Issue" otherwise.
 
 <!DOCTYPE html>
