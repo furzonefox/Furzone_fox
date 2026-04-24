@@ -1,0 +1,11 @@
+.desc-note {
+    text-decoration: underline;
+}
+#page {
+    width: 700px;
+    margin: 5px auto 10px auto;
+    background: linear-gradient(deg(35), rgb(140, 75, 1), rgb(135, 74, 33));
+}
+ul > ul > li {
+    list-style: circle;
+}
