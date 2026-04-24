@@ -1,8 +1,12 @@
 a[role="button"].embed-link-btn {
     border: 2px grey solid;
     border-radius: 30px;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
 }
 object.web-embed {
     border: 5px grey solid;
     border-radius: 15px;
+    margin: 5px auto 3px auto
 }
