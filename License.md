@@ -9,8 +9,7 @@ All media assets, including but not limited to images (.jpg, .png, .svg, .webp, 
 - **Usage Prohibited:** The use, reproduction, modification, or distribution of these media assets is STRICTLY PROHIBITED without prior written consent from the author or its creator(s).
   - Showing any media items using videos, pictures or other means is also prohibited without consent, but these are taken more lightly on the following factors:
     - Will the video/image/other content be uploaded to a public or private place, or just stored privately without sharing with anyone?
-    - Will it be used for comercial or personal means, or as a visualization/memory?
- On the very case that the author of the website nor the creator(s) of the media items cannot be reached, explicit permission to use the content for non-commersial or personal means is granted, only if it is confirmed that the contacts given appear to be useless for permission.
+    - Will it be used for comercial or personal means, or as a visualization/memory? <br>On the very case that the author of the website nor the creator(s) of the media items cannot be reached, explicit permission to use the content for non-commersial or non-personal means is granted, only if it is confirmed that the contacts given appear to be useless for permission.
 - These assets are NOT considered open-source and are excluded from the software license mentioned in Section 1.
 - Do NOT beg for, or consecutively ask for access to these media items - once rejected, accept the decision. If we make up our minds, we will contact you about the sudden change and the reason for it.
 
