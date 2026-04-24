@@ -23,4 +23,4 @@ If you are the owner or a contributor of any media asset found in this repositor
 - **Issue Report:** Open a new "Issue" in this GitHub repository with the label "Takedown Request" and provide details regarding the specific item, by including the subsite's URL, or the URL of the media item.
 
 ---
-Copyright (c) 2026 FurZoneFox. All rights reserved regarding media assets.
+Copyright© 2026 FurZoneFox. All rights reserved regarding media assets.
