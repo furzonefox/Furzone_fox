@@ -1,6 +1,6 @@
 # FurZone Webpage
-(i) This webpage was created by FurZoneFox completely from scratch and is being maintained until date: {undefined}.
-(i) This webpage is solely a work for fun and has little to no intent to cause or inflict pain.
+This webpage was created by FurZoneFox completely from scratch and is being maintained until date: {undefined}.
+This webpage is solely a work for fun and has little to no intent to cause or inflict pain.
 
 This will eventually be used to have a working site for informative purpose.
 Do not criticize or make fun of the site (especially without proper experience making/building a website): this is a freetime-fun project and could possibly take months until completion.
