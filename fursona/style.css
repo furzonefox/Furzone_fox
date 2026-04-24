@@ -1,0 +1,8 @@
+a[role="button"].embed-link-btn {
+    border: 2px grey solid;
+    border-radius: 30px;
+}
+object.web-embed {
+    border: 5px grey solid;
+    border-radius: 15px;
+}
